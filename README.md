@@ -1,5 +1,5 @@
 # Etudiant en Informatique
-### Actuelement en BUT2 Info a l'UPEC
+### Actuelement en Ingé a l'ENSIIE
 
 ### [Portfolio (new version in progress)](https://tanchou.fr) - Contact : louis.tanchou@gmail.com
 
